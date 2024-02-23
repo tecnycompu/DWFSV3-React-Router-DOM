@@ -7,9 +7,3 @@ export default function Developers(){
         </>
     )
 }
-
-/* Categorias
-- CSS --> Playlist URL
-- React --> Playlist URL
-- jfieorg --> Playlist URL
-*/
