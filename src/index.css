@@ -3,15 +3,11 @@
 @tailwind utilities;
 
 @layer base{
-    body{
-        background-color: peachpuff;
+    body{   
+        background-color: paleturquoise;
     }
 }
 
-.slick-slide >div{
+.slick-slide >dic{
     margin: 0 10px;
-}
-
-.slick-dots li.slick-active button:before{
-    color: orange !important;
 }
